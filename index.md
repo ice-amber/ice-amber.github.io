@@ -16,9 +16,13 @@ layout: page
 - 该游戏在taptap上达到了累计4w下载量
 
 - 职能：主设计师
+- 主要负责整体游戏设计，机制设计，ai设计，界面设计等
 <br>
 
 ---
+
+
+
 
 ## 诺亚方舟
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/caf1e74e-0940-4670-a4a5-9a683c4ecca1)
@@ -32,9 +36,14 @@ layout: page
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/3ff53a89-1bcb-4617-9a34-097ee16f14c9)
 
 - 职能：主设计师
+- 主要负责整体游戏设计，机制设计，关卡设计，界面设计等
 <br>
 
 ---
+
+
+
+
 
 ## 滑块地牢 游戏原型
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/d8ecc608-5d61-4b8b-b891-ea739f50c3a6)
@@ -43,9 +52,14 @@ layout: page
 - 滑块地牢是一款结合2048和地牢探险，魔塔元素的游戏，你可以使用类似2048的滑块机制控制主角在小区域内移动和存活
 
 - 职能：个人项目
+- 设计了游戏机制，数值平衡，制作了游戏demo
 <br>
 
 ---
+
+
+
+
 
 ## 机械蠕虫 游戏原型
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/0498b382-ac35-4167-9ee6-82fc0d399daf)
@@ -54,9 +68,13 @@ layout: page
 - 机械蠕虫是一款结合幸存者要素和场景破坏的幸存者类游戏
 
 - 职能：个人项目
+- 设计了游戏机制，制作了游戏demo
 <br>
 
 ---
+
+
+
 
 ## 幸存者类游戏原型
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/dd78e9b4-a296-4464-b12e-84b007a23ee4)
@@ -65,6 +83,7 @@ layout: page
 - 幸存者类游戏的基础功能原型
 
 - 职能：个人项目
+- 制作了游戏demo
 <br>
 
 ---
