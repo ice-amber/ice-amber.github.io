@@ -2,11 +2,12 @@
 layout: page
 ---
 
-# 个人项目：
+## 个人项目：
 
 <br>
 
-## The Planet
+#### The Planet
+
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/200db0e6-e9a6-4a14-9c1d-2b6f375cb679)
 
 - 游戏网站：
@@ -24,7 +25,8 @@ layout: page
 
 
 
-## 诺亚方舟
+#### 诺亚方舟
+
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/caf1e74e-0940-4670-a4a5-9a683c4ecca1)
 
 - 诺亚方舟是一款将动物装进有限空间里的拼图游戏，你可以利用动物间的关系让动物占地面积变小，尽量塞下更多动物
@@ -45,7 +47,8 @@ layout: page
 
 
 
-## 滑块地牢 游戏原型
+#### 滑块地牢 游戏原型
+
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/d8ecc608-5d61-4b8b-b891-ea739f50c3a6)
 
 - 游戏视频：<https://www.bilibili.com/video/BV14j41187Lj/?vd_source=9d7e77b4f6a07418e234ea220e032d79>
@@ -61,7 +64,8 @@ layout: page
 
 
 
-## 机械蠕虫 游戏原型
+#### 机械蠕虫 游戏原型
+
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/0498b382-ac35-4167-9ee6-82fc0d399daf)
 
 - 游戏视频：<https://www.bilibili.com/video/BV1nu4y1479w/?vd_source=9d7e77b4f6a07418e234ea220e032d79>
@@ -76,7 +80,8 @@ layout: page
 
 
 
-## 幸存者类游戏原型
+### 幸存者类游戏原型
+
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/dd78e9b4-a296-4464-b12e-84b007a23ee4)
 
 - 游戏视频：<https://www.bilibili.com/video/BV1qN411n77M/?vd_source=9d7e77b4f6a07418e234ea220e032d79>
