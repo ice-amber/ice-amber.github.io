@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "76176f0a515e7726",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef1a208fa8c438dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c20ad59da2422436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameAnalyse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "857f7c536ee4369f",
+    "type": "split",
+    "children": [
+      {
+        "id": "86569ad064cd26b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "179c4c29b149644a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb86f7f06b008a83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31f4cd2619b3cc83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82a662ed5ff0209f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d551130ddaa53842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "669cccb467bd4a2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GameAnalyse.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e20608335fcf6c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GameAnalyse.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adb1d0f3f384a569",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db17a91f74c88ed2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GameAnalyse.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c20ad59da2422436",
+  "lastOpenFiles": [
+    "file/关卡策划_史语扬.pdf"
+  ]
+}
