@@ -4,8 +4,6 @@ layout: page
 
 # 个人项目：
 
-<class="floatpic" width="360" height="480">
-
 <br>
 
 ## The Planet
