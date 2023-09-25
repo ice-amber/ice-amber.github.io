@@ -25,8 +25,10 @@ layout: page
 
 - 诺亚方舟是一款将动物装进有限空间里的拼图游戏，你可以利用动物间的关系让动物占地面积变小，尽量塞下更多动物
 - 游戏截图：
+
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/7ae0f0fc-f691-4fce-900b-5bfc71f0dde4)
 - 设计稿：
+
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/3ff53a89-1bcb-4617-9a34-097ee16f14c9)
 
 - 职能：主设计师
@@ -37,7 +39,7 @@ layout: page
 ## 滑块地牢 游戏原型
 ![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/d8ecc608-5d61-4b8b-b891-ea739f50c3a6)
 
-- 游戏视频：
+- 游戏视频：<https://www.bilibili.com/video/BV14j41187Lj/?vd_source=9d7e77b4f6a07418e234ea220e032d79>
 - 滑块地牢是一款结合2048和地牢探险，魔塔元素的游戏，你可以使用类似2048的滑块机制控制主角在小区域内移动和存活
 
 - 职能：个人项目
