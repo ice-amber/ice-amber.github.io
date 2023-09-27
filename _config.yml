@@ -16,7 +16,9 @@ links:
     url: /
   - title: 简历(Resume)
     url: /file/简历_史语扬.pdf
-  - title: 游戏分析和工作总结(Game Analyse)
+  - title: 工作项目经历(WorkProject)
+    url: /WorkProject/
+  - title: 游戏分析(Game Analyse)
     url: /GameAnalyse/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
