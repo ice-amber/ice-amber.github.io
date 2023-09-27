@@ -5,9 +5,13 @@ title: GameAnalyse
 ---
 
 
-## 游戏分析和工作总结
+## 项目工作总结
 
 [单机项目工作总结.pdf](https://github.com/ice-amber/ice-amber.github.io/files/12713760/default.pdf)
+
+
+
+## 游戏分析
 
 [潜行关卡分析.pdf](https://github.com/ice-amber/ice-amber.github.io/files/12712440/default.pdf)
 
