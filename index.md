@@ -22,7 +22,22 @@ layout: page
 
 ---
 
+<br>
 
+#### 命运操控喵
+
+![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/2755507d-e170-426c-a27b-3a7e8f989c19)
+
+- 游戏网站：
+<https://www.gcores.com/games/113192>
+
+- 命运操控喵是一款结合推箱子和rogue卡牌元素的rogue类游戏，玩家可以操控精灵在左边棋盘上推动骰子，使其滚动，到下落口内，让角色释放不同的技能，获得战斗胜利
+
+- 职能：主设计师
+- 主要负责整体游戏设计，机制设计，ai设计等
+<br>
+
+---
 
 
 #### 诺亚方舟
