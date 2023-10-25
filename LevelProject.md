@@ -2,108 +2,19 @@
 layout: page
 ---
 
-## 个人项目：
+## 关卡demo作品：
 
 <br>
 
-#### The Planet
+#### 城市迫降
 
-![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/200db0e6-e9a6-4a14-9c1d-2b6f375cb679)
+![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/9ca2ac24-3a6b-44a9-a4ab-f6f7c0dd2a0a)
 
-- 游戏网站：
-<https://www.taptap.cn/app/205762>
-
-- the planet是一款控制行星自转的游戏，你可以通过控制行星自转，分配光照，躲避陨石，协助人类对抗外星人，让人类在行星上繁衍生息
-- 该游戏在taptap上达到了累计4w下载量
-
-- 职能：主设计师
-- 主要负责整体游戏设计，机制设计，ai设计，界面设计等
-<br>
-
----
-
-<br>
-
-#### 命运操控喵
-
-![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/2755507d-e170-426c-a27b-3a7e8f989c19)
-
-- 游戏网站：
-<https://www.gcores.com/games/113192>
-
-- 命运操控喵是一款结合推箱子和rogue卡牌元素的rogue类游戏，玩家可以操控精灵在左边棋盘上推动骰子，使其滚动，到下落口内，让角色释放不同的技能，获得战斗胜利
-
-- 职能：主设计师
-- 主要负责整体游戏设计，机制设计，ai设计等
-<br>
-
----
-
-
-#### 诺亚方舟
-
-![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/caf1e74e-0940-4670-a4a5-9a683c4ecca1)
-
-- 诺亚方舟是一款将动物装进有限空间里的拼图游戏，你可以利用动物间的关系让动物占地面积变小，尽量塞下更多动物
-- 游戏截图：
-
-![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/7ae0f0fc-f691-4fce-900b-5bfc71f0dde4)
-- 设计稿：
-
-![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/3ff53a89-1bcb-4617-9a34-097ee16f14c9)
-
-- 职能：主设计师
-- 主要负责整体游戏设计，机制设计，关卡设计，界面设计等
-<br>
-
----
-
-
-
-
-
-#### 滑块地牢 游戏原型
-
-![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/d8ecc608-5d61-4b8b-b891-ea739f50c3a6)
-
-- 游戏视频：<https://www.bilibili.com/video/BV14j41187Lj/?vd_source=9d7e77b4f6a07418e234ea220e032d79>
-- 滑块地牢是一款结合2048和地牢探险，魔塔元素的游戏，你可以使用类似2048的滑块机制控制主角在小区域内移动和存活
+- demo下载地址：链接: <https://pan.baidu.com/s/1a5jP4o8FSbu9aiVtsvMJPw?pwd=1234> 提取码: 1234
 
 - 职能：个人项目
-- 设计了游戏机制，数值平衡，制作了游戏demo
-<br>
-
----
-
-
-
-
-
-#### 机械蠕虫 游戏原型
-
-![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/0498b382-ac35-4167-9ee6-82fc0d399daf)
-
-- 游戏视频：<https://www.bilibili.com/video/BV1nu4y1479w/?vd_source=9d7e77b4f6a07418e234ea220e032d79>
-- 机械蠕虫是一款结合幸存者要素和场景破坏的幸存者类游戏
-
-- 职能：个人项目
-- 设计了游戏机制，制作了游戏demo
-<br>
-
----
-
-
-
-
-### 幸存者类游戏原型
-
-![image](https://github.com/ice-amber/ice-amber.github.io/assets/42246077/dd78e9b4-a296-4464-b12e-84b007a23ee4)
-
-- 游戏视频：<https://www.bilibili.com/video/BV1qN411n77M/?vd_source=9d7e77b4f6a07418e234ea220e032d79>
-- 幸存者类游戏的基础功能原型
-
-- 职能：个人项目
-- 制作了游戏demo
+- 完成了关卡设计，程序功能制作等
+- 关卡流程视频：<https://www.bilibili.com/video/BV1wh4y1i7V5/?vd_source=9d7e77b4f6a07418e234ea220e032d79>
 <br>
 
 ---
