@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /LevelProject/index.html
+title: LevelProject
 ---
 
 ## 关卡demo作品：
